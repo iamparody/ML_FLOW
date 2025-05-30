@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/672594468905234709/572846a77325410ea494579dd762ab90/artifacts
+end_time: 1748586143777
+entry_point_name: ''
+experiment_id: '672594468905234709'
+lifecycle_stage: active
+run_id: 572846a77325410ea494579dd762ab90
+run_name: respected-sloth-965
+run_uuid: 572846a77325410ea494579dd762ab90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748586048662
+status: 3
+tags: []
+user_id: user

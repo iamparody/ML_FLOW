@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/231914957404016027/b31574b0c4d643e8993e8ac3bea901ec/artifacts
+end_time: 1748585342483
+entry_point_name: ''
+experiment_id: '231914957404016027'
+lifecycle_stage: active
+run_id: b31574b0c4d643e8993e8ac3bea901ec
+run_name: bemused-whale-807
+run_uuid: b31574b0c4d643e8993e8ac3bea901ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748585334700
+status: 3
+tags: []
+user_id: user

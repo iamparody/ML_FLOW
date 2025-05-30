@@ -1,0 +1,23 @@
+
+
+docker run -d \
+  -p 5000:5000 \
+  -v /c/Users/user/Documents/ML_FLOW/mlruns:/mlflow/mlruns \
+  --name mlflow-server \
+  ghcr.io/mlflow/mlflow \
+  mlflow server \
+    --backend-store-uri /mlflow/mlruns \
+    --default-artifact-root /mlflow/mlruns \
+    --host 0.0.0.0 \
+    --port 5000
+
+docker run -d \
+  -p 5000:5000 \
+  --name mlflow-test \
+  ghcr.io/mlflow/mlflow \
+  mlflow server \
+    --backend-store-uri sqlite:///mlflow.db \
+    --default-artifact-root ./mlartifacts \
+    --host 0.0.0.0 \
+    --port 5000
+

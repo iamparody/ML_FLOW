@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/672594468905234709/d9dcc55fb8764553850253b67c74148a/artifacts
+end_time: 1748586041260
+entry_point_name: ''
+experiment_id: '672594468905234709'
+lifecycle_stage: active
+run_id: d9dcc55fb8764553850253b67c74148a
+run_name: funny-snipe-286
+run_uuid: d9dcc55fb8764553850253b67c74148a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748585953109
+status: 3
+tags: []
+user_id: user

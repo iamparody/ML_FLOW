@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/231914957404016027/82c43a662b0c46aeaf3edbc5f6460969/artifacts
+end_time: 1748585229172
+entry_point_name: ''
+experiment_id: '231914957404016027'
+lifecycle_stage: active
+run_id: 82c43a662b0c46aeaf3edbc5f6460969
+run_name: bustling-whale-311
+run_uuid: 82c43a662b0c46aeaf3edbc5f6460969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748585214972
+status: 3
+tags: []
+user_id: user

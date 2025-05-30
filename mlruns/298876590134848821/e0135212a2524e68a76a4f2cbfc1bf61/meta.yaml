@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Documents/ML_FLOW/mlruns/298876590134848821/e0135212a2524e68a76a4f2cbfc1bf61/artifacts
+end_time: 1748584743055
+entry_point_name: ''
+experiment_id: '298876590134848821'
+lifecycle_stage: active
+run_id: e0135212a2524e68a76a4f2cbfc1bf61
+run_name: random-forest-baseline
+run_uuid: e0135212a2524e68a76a4f2cbfc1bf61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748584639384
+status: 3
+tags: []
+user_id: user

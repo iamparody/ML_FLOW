@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/672594468905234709/d97d7d9da01e4666a8e949f84be57037/artifacts
+end_time: 1748586234300
+entry_point_name: ''
+experiment_id: '672594468905234709'
+lifecycle_stage: active
+run_id: d97d7d9da01e4666a8e949f84be57037
+run_name: traveling-snake-382
+run_uuid: d97d7d9da01e4666a8e949f84be57037
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748586146147
+status: 3
+tags: []
+user_id: user

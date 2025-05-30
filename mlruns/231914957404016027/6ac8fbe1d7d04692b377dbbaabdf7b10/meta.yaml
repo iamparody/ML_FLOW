@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/231914957404016027/6ac8fbe1d7d04692b377dbbaabdf7b10/artifacts
+end_time: 1748585312026
+entry_point_name: ''
+experiment_id: '231914957404016027'
+lifecycle_stage: active
+run_id: 6ac8fbe1d7d04692b377dbbaabdf7b10
+run_name: brawny-jay-684
+run_uuid: 6ac8fbe1d7d04692b377dbbaabdf7b10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748585298597
+status: 3
+tags: []
+user_id: user
